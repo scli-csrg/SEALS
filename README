@@ -1,0 +1,4 @@
+This implementation is based on the architectural description in the paper. It includes the Fuzzy Index Layer (using LSH), the Homomorphic Verification Layer (using the tenseal library for HE) , and the Dynamic Update Mechanism.
+
+pip install tenseal datasketch numpy scikit-learn
+

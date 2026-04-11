@@ -1,1 +1,17 @@
+1. Enron Email Dataset
 
+    Official Source: https://www.cs.cmu.edu/~enron/
+
+    Description: This is the original, full Enron email corpus made public by the US Department of Justice. It contains approximately 500,000 emails from about 150 users.
+
+    Alternative Processed Versions: You can also find pre-processed versions of this dataset on platforms like Kaggle or Zenodo, often in CSV or JSON format for easier loading.
+
+    Reference: The dataset is also maintained with a DOI (10.57702/verm0amh) on the TIB portal.
+
+2. DBLP Bibliography Dataset
+
+    Official Source (XML Dump): https://dblp.uni-trier.de/xml/
+
+    Description: This is the complete DBLP computer science bibliography dataset. The primary file is dblp.xml, which contains all bibliographic records. The directory also includes a compressed version (dblp.xml.gz) and a Document Type Definition (dblp.dtd) for validation.
+
+    Alternative: For easier processing, you can also use the dblp Python library to fetch and parse records programmatically.
